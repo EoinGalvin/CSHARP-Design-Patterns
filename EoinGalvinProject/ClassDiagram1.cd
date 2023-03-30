@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RestaurantSystem.BusinessLayer.Utility" Collapsed="true">
+    <Position X="39.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAIAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BusinessLayer\Utility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EoinGalvinProject.BusinessLayer.ReservationAbstractFactory.EarlyReservation" Collapsed="true">
+    <Position X="12.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BusinessLayer\ReservationAbstractFactory\EarlyReservation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EoinGalvinProject.BusinessLayer.ReservationAbstractFactory.EarlyReservationFactory" Collapsed="true">
+    <Position X="18" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BusinessLayer\ReservationAbstractFactory\EarlyReservationFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EoinGalvinProject.BusinessLayer.ReservationAbstractFactory.EarlyTwoReservation" Collapsed="true">
+    <Position X="13.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BusinessLayer\ReservationAbstractFactory\EarlyTwoReservation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EoinGalvinProject.BusinessLayer.ReservationAbstractFactory.EarlyFourReservation" Collapsed="true">
+    <Position X="16.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BusinessLayer\ReservationAbstractFactory\EarlyTwoReservation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EoinGalvinProject.BusinessLayer.ReservationAbstractFactory.EarlySixReservation" Collapsed="true">
+    <Position X="18" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BusinessLayer\ReservationAbstractFactory\EarlyTwoReservation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EoinGalvinProject.BusinessLayer.ReservationAbstractFactory.EarlyEightReservation" Collapsed="true">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BusinessLayer\ReservationAbstractFactory\EarlyTwoReservation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EoinGalvinProject.BusinessLayer.ReservationAbstractFactory.EarlyTenReservation" Collapsed="true">
+    <Position X="9" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BusinessLayer\ReservationAbstractFactory\EarlyTwoReservation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EoinGalvinProject.BusinessLayer.ReservationAbstractFactory.EarlyTwelveReservation" Collapsed="true">
+    <Position X="10.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BusinessLayer\ReservationAbstractFactory\EarlyTwoReservation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EoinGalvinProject.BusinessLayer.ReservationAbstractFactory.EarlyFourteenReservation" Collapsed="true">
+    <Position X="12" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BusinessLayer\ReservationAbstractFactory\EarlyTwoReservation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EoinGalvinProject.BusinessLayer.ReservationAbstractFactory.EarlySixteenReservation" Collapsed="true">
+    <Position X="15" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BusinessLayer\ReservationAbstractFactory\EarlyTwoReservation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EoinGalvinProject.BusinessLayer.ReservationAbstractFactory.LateReservation" Collapsed="true">
+    <Position X="25.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BusinessLayer\ReservationAbstractFactory\LateReservation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EoinGalvinProject.BusinessLayer.ReservationAbstractFactory.LateReservationFactory" Collapsed="true">
+    <Position X="20" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BusinessLayer\ReservationAbstractFactory\LateReservationFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EoinGalvinProject.BusinessLayer.ReservationAbstractFactory.LateTwoReservation" Collapsed="true">
+    <Position X="20" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BusinessLayer\ReservationAbstractFactory\LateTwoReservation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EoinGalvinProject.BusinessLayer.ReservationAbstractFactory.LateFourReservation" Collapsed="true">
+    <Position X="23" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BusinessLayer\ReservationAbstractFactory\LateTwoReservation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EoinGalvinProject.BusinessLayer.ReservationAbstractFactory.LateSixReservation" Collapsed="true">
+    <Position X="24.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BusinessLayer\ReservationAbstractFactory\LateTwoReservation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EoinGalvinProject.BusinessLayer.ReservationAbstractFactory.LateEightReservation" Collapsed="true">
+    <Position X="26" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BusinessLayer\ReservationAbstractFactory\LateTwoReservation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EoinGalvinProject.BusinessLayer.ReservationAbstractFactory.LateTenReservation" Collapsed="true">
+    <Position X="27.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BusinessLayer\ReservationAbstractFactory\LateTwoReservation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EoinGalvinProject.BusinessLayer.ReservationAbstractFactory.LateTwelveReservation" Collapsed="true">
+    <Position X="29" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BusinessLayer\ReservationAbstractFactory\LateTwoReservation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EoinGalvinProject.BusinessLayer.ReservationAbstractFactory.LateFourteenReservation" Collapsed="true">
+    <Position X="30.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BusinessLayer\ReservationAbstractFactory\LateTwoReservation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EoinGalvinProject.BusinessLayer.ReservationAbstractFactory.LateSixteenReservation" Collapsed="true">
+    <Position X="21.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BusinessLayer\ReservationAbstractFactory\LateTwoReservation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EoinGalvinProject.BusinessLayer.ReservationAbstractFactory.Reservation" Collapsed="true">
+    <Position X="19" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gDAEAGUIAIBgCQAEAAREAAIAAAIQQAAAAAAAYARASUA=</HashCode>
+      <FileName>BusinessLayer\ReservationAbstractFactory\Reservation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EoinGalvinProject.BusinessLayer.ReservationAbstractFactory.ReservationFactory" Collapsed="true">
+    <Position X="19" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BusinessLayer\ReservationAbstractFactory\ReservationFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EoinGalvinProject.BusinessLayer.BalconyStation" Collapsed="true">
+    <Position X="3" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BusinessLayer\StationFactory\BalconyStation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EoinGalvinProject.BusinessLayer.CentreStation" Collapsed="true">
+    <Position X="5.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BusinessLayer\StationFactory\CentreStation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EoinGalvinProject.BusinessLayer.Station" Collapsed="true">
+    <Position X="3" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wAAASAAIAAhAAAgQAAQAAAAABAAAggACIAIgAAgCAEA=</HashCode>
+      <FileName>BusinessLayer\StationFactory\Station.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EoinGalvinProject.BusinessLayer.StationFactory" Collapsed="true">
+    <Position X="41.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BusinessLayer\StationFactory\StationFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EoinGalvinProject.BusinessLayer.WindowStation" Collapsed="true">
+    <Position X="0.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BusinessLayer\StationFactory\WindowStation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestaurantSystem.DataAccessLayer.DBConnect" Collapsed="true">
+    <Position X="40.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataAccessLayer\DBConnect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestaurantSystem.DataAccessLayer.ReservationDAOimpl" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="39" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAIAAAQABAAQEAAIAAAAAAAAAQAAAAAAAQQA=</HashCode>
+      <FileName>DataAccessLayer\ReservationDAOimpl.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RestaurantSystem.DataAccessLayer.StationDAOimpl" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="42" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wAAASAAAAAAAAAgQAAAAAAAABAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>DataAccessLayer\StationDAOimpl.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RestaurantSystem.PresentationLayer.frmAddReservation" Collapsed="true">
+    <Position X="39" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAACBLQAAhCQQCKAgAACEABQCAAAAAMZAAAAAQA=</HashCode>
+      <FileName>PresentationLayer\frmAddReservation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestaurantSystem.PresentationLayer.frmAddStation" Collapsed="true">
+    <Position X="40.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAiAAAACEAAACkABAAACAAAABAAAkEEI=</HashCode>
+      <FileName>PresentationLayer\frmAddStation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestaurantSystem.PresentationLayer.frmCancelReservation" Collapsed="true">
+    <Position X="42" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAgAAACAgAgAAAECAAgACUABAAAAgAAABEIAAAAY=</HashCode>
+      <FileName>PresentationLayer\frmCancelReservation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestaurantSystem.PresentationLayer.frmCheckAvailability" Collapsed="true">
+    <Position X="39" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAADAIAhAAAAKEAAECEAFQQAIAAAAAAAAAAUA=</HashCode>
+      <FileName>PresentationLayer\frmCheckAvailability.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestaurantSystem.PresentationLayer.frmCheckIn" Collapsed="true">
+    <Position X="42" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAgEgAAAACAAAACECBAAAAAAAAJQAAAEAA=</HashCode>
+      <FileName>PresentationLayer\frmCheckIn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestaurantSystem.PresentationLayer.frmCheckOut" Collapsed="true">
+    <Position X="39" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASAgAhAACACAAAACkABAAAAAAIABAAQCAAA=</HashCode>
+      <FileName>PresentationLayer\frmCheckOut.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestaurantSystem.PresentationLayer.frmDeleteStation" Collapsed="true">
+    <Position X="40.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASAAAAAAACAAQhAAAACAAACCEABAAAAgAAABgAAAAAA=</HashCode>
+      <FileName>PresentationLayer\frmDeleteStation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestaurantSystem.PresentationLayer.frmHomePage" Collapsed="true">
+    <Position X="42" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wQEUBDAQECAAAIEAgBSABAgKAoQAAAAIAAAACiAAAIo=</HashCode>
+      <FileName>PresentationLayer\frmHomePage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestaurantSystem.PresentationLayer.frmStationAnalysis" Collapsed="true">
+    <Position X="42" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAIAADAAAgAAAACAAAACEABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PresentationLayer\frmStationAnalysis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestaurantSystem.PresentationLayer.frmUpdateStation" Collapsed="true">
+    <Position X="39" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECAAQAgAACAAAhgAAECEAAACEABAAAAAAAAAgAAEAAA=</HashCode>
+      <FileName>PresentationLayer\frmUpdateStation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestaurantSystem.PresentationLayer.frmYearlyRevAnalysis" Collapsed="true">
+    <Position X="40.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAACAIApAAAACAAAECEABAAAAAEAAABAAAAAA=</HashCode>
+      <FileName>PresentationLayer\frmYearlyRevAnalysis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestaurantSystem.PresentationLayer.Program" Collapsed="true">
+    <Position X="34.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>PresentationLayer\Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestaurantSystem.Properties.Resources" Collapsed="true">
+    <Position X="34.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestaurantSystem.Properties.Settings" Collapsed="true">
+    <Position X="34.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="RestaurantSystem.DataAccessLayer.ReservationDAO" Collapsed="true">
+    <Position X="39.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAIAAAQABAAQEAAIAAAAAAAAAQAAAAAAAQQA=</HashCode>
+      <FileName>DataAccessLayer\ReservationDAO.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RestaurantSystem.DataAccessLayer.StationDAO" Collapsed="true">
+    <Position X="41.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wAAASAAAAAAAAAgQAAAAAAAABAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>DataAccessLayer\StationDAO.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,110 @@
+C:\Users\eoing\Desktop\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.csproj.AssemblyReference.cache
+C:\Users\eoing\Desktop\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\eoing\Desktop\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\EoinGalvinProject.Properties.Resources.resources
+C:\Users\eoing\Desktop\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.csproj.GenerateResource.cache
+C:\Users\eoing\Desktop\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.csproj.CoreCompileInputs.cache
+C:\Users\eoing\Desktop\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\EoinGalvinProject.exe
+C:\Users\eoing\Desktop\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\EoinGalvinProject.pdb
+C:\Users\eoing\Desktop\Code\SWEP\EoinGalvinProject\EoinGalvinProject\bin\Debug\EoinGalvinProject.exe.config
+C:\Users\eoing\Desktop\Code\SWEP\EoinGalvinProject\EoinGalvinProject\bin\Debug\EoinGalvinProject.exe
+C:\Users\eoing\Desktop\Code\SWEP\EoinGalvinProject\EoinGalvinProject\bin\Debug\EoinGalvinProject.pdb
+C:\Users\eoing\Desktop\Code\SWEP\EoinGalvinProject\EoinGalvinProject\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\eoing\Desktop\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.csproj.CopyComplete
+C:\Users\eoing\Desktop\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmAddReservation.resources
+C:\Users\eoing\Desktop\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmAddStation.resources
+C:\Users\eoing\Desktop\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmCancelReservation.resources
+C:\Users\eoing\Desktop\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmCheckAvailability.resources
+C:\Users\eoing\Desktop\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmCheckIn.resources
+C:\Users\eoing\Desktop\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmCheckOut.resources
+C:\Users\eoing\Desktop\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmDeleteStation.resources
+C:\Users\eoing\Desktop\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmStationAnalysis.resources
+C:\Users\eoing\Desktop\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmUpdateStation.resources
+C:\Users\eoing\Desktop\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmYearlyRevAnalysis.resources
+C:\Users\eoing\Desktop\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmHomePage.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\28-11-11PM\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.csproj.AssemblyReference.cache
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\28-11-11PM\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\28-11-11PM\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmAddReservation.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\28-11-11PM\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmAddStation.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\28-11-11PM\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmCancelReservation.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\28-11-11PM\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmCheckAvailability.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\28-11-11PM\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmCheckIn.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\28-11-11PM\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmCheckOut.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\28-11-11PM\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmDeleteStation.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\28-11-11PM\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmStationAnalysis.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\28-11-11PM\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmUpdateStation.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\28-11-11PM\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmYearlyRevAnalysis.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\28-11-11PM\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmHomePage.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\28-11-11PM\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\EoinGalvinProject.Properties.Resources.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\28-11-11PM\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.csproj.GenerateResource.cache
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\28-11-11PM\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.csproj.CoreCompileInputs.cache
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\28-11-11PM\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\EoinGalvinProject.exe
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\28-11-11PM\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\EoinGalvinProject.pdb
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.csproj.AssemblyReference.cache
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmAddReservation.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmAddStation.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmCancelReservation.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmCheckAvailability.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmCheckIn.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmCheckOut.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmDeleteStation.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmStationAnalysis.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmUpdateStation.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmYearlyRevAnalysis.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmHomePage.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\EoinGalvinProject.Properties.Resources.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.csproj.GenerateResource.cache
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.csproj.CoreCompileInputs.cache
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\EoinGalvinProject.exe
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\EoinGalvinProject.pdb
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11\Code\SWEP\EoinGalvinProject\EoinGalvinProject\bin\Debug\EoinGalvinProject.exe.config
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11\Code\SWEP\EoinGalvinProject\EoinGalvinProject\bin\Debug\EoinGalvinProject.exe
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11\Code\SWEP\EoinGalvinProject\EoinGalvinProject\bin\Debug\EoinGalvinProject.pdb
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11\Code\SWEP\EoinGalvinProject\EoinGalvinProject\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.csproj.CopyComplete
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\bin\Debug\EoinGalvinProject.exe.config
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\bin\Debug\EoinGalvinProject.exe
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\bin\Debug\EoinGalvinProject.pdb
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.csproj.AssemblyReference.cache
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmAddReservation.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmAddStation.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmCancelReservation.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmCheckAvailability.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmCheckIn.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmCheckOut.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmDeleteStation.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmStationAnalysis.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmUpdateStation.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmYearlyRevAnalysis.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmHomePage.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\EoinGalvinProject.Properties.Resources.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.csproj.GenerateResource.cache
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.csproj.CoreCompileInputs.cache
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.csproj.CopyComplete
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\EoinGalvinProject.exe
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\EoinGalvinProject.pdb
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - FACTORY - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.csproj.AssemblyReference.cache
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - FACTORY - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - FACTORY - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmAddReservation.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - FACTORY - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmAddStation.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - FACTORY - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmCancelReservation.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - FACTORY - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmCheckAvailability.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - FACTORY - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmCheckIn.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - FACTORY - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmCheckOut.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - FACTORY - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmDeleteStation.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - FACTORY - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmStationAnalysis.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - FACTORY - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmUpdateStation.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - FACTORY - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmYearlyRevAnalysis.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - FACTORY - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.PresentationLayer.frmHomePage.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - FACTORY - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\EoinGalvinProject.Properties.Resources.resources
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - FACTORY - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.csproj.GenerateResource.cache
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - FACTORY - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.csproj.CoreCompileInputs.cache
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - FACTORY - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\EoinGalvinProject.exe
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - FACTORY - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\EoinGalvinProject.pdb
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - FACTORY - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\bin\Debug\EoinGalvinProject.exe.config
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - FACTORY - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\bin\Debug\EoinGalvinProject.exe
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - FACTORY - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\bin\Debug\EoinGalvinProject.pdb
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - FACTORY - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\eoing\Desktop\due\Design Patterns\DESIGN PATTERNS\UPDATES\29-11 SINGLETON-LAYER - FACTORY - Copy\Code\SWEP\EoinGalvinProject\EoinGalvinProject\obj\Debug\RestaurantSystem.csproj.CopyComplete
